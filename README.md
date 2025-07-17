@@ -1,7 +1,5 @@
 # IPDisplayTool
 
-![IPDisplayTool Screenshot](screenshots/ipdisplaytool-mockup.png)
-
 **ENGLISH | ภาษาไทยด้านล่าง**
 
 A lightweight Windows utility that displays your computer's current IP address in the bottom-right corner of the screen. Designed for internal use, IT staff, and local network troubleshooting.
