@@ -25,7 +25,7 @@ No internet access is used. IP address is retrieved locally. No data is collecte
 This tool was created as a personal utility project.  
 If you find it useful and would like to support development, you can donate via PayPal.
 
-[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue)](https://www.paypal.me/YourPayPalUsername)
+[![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue)](https://www.paypal.me/brewtherhood)
 
 ---
 
@@ -55,4 +55,4 @@ If you find it useful and would like to support development, you can donate via 
 โปรแกรมนี้สร้างขึ้นเพื่อใช้งานส่วนตัว หากคุณเห็นว่าเป็นประโยชน์  
 สามารถสนับสนุนค่าใช้จ่ายในการพัฒนาผ่าน PayPal ได้ที่ลิงก์ด้านล่าง:
 
-[![สนับสนุนผ่าน PayPal](https://img.shields.io/badge/สนับสนุนผ่าน-PayPal-0948B7)](https://www.paypal.me/YourPayPalUsername)
+[![สนับสนุนผ่าน PayPal](https://img.shields.io/badge/สนับสนุนผ่าน-PayPal-0948B7)](https://www.paypal.me/brewtherhood)
