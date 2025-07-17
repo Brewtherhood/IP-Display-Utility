@@ -18,6 +18,12 @@ Simply run the provided `IPDisplayTool_Setup.exe` installer.
 - You’ll find the app in the system tray
 - Right-click for options: Refresh IP / Exit
 
+## 📥 Download
+
+👉 [Download IPDisplayTool v1.0.0 (Installer EXE)](https://github.com/Brewtherhood/IPDisplayTool/releases/download/v1.0.0/IPDisplayTool_Setup.exe)
+
+> This installer includes .NET runtime and starts on boot automatically.
+
 ## 🔒 Privacy & Security
 No internet access is used. IP address is retrieved locally. No data is collected or sent.
 
@@ -46,6 +52,12 @@ If you find it useful and would like to support development, you can donate via 
 - โปรแกรมจะเริ่มทำงานทันทีหลังติดตั้ง
 - มีไอคอนแสดงใน System Tray
 - ใช้งานง่าย ไม่ต้องตั้งค่าใด ๆ
+
+### 📥 ดาวน์โหลด
+
+👉 [ดาวน์โหลด IPDisplayTool เวอร์ชัน 1.0.0](https://github.com/Brewtherhood/IPDisplayTool/releases/download/v1.0.0/IPDisplayTool_Setup.exe)
+
+> โปรแกรมนี้รวม .NET Runtime และสามารถเริ่มทำงานเองเมื่อเปิดเครื่อง
 
 ### 🔐 ความปลอดภัย
 ไม่เชื่อมต่ออินเทอร์เน็ตใด ๆ ข้อมูล IP ถูกดึงจากเครื่องของคุณเท่านั้น  
